@@ -2,7 +2,7 @@
 <extension type="package" version="3.0" method="upgrade">
 	<name>Vietnamese Language Pack</name>
 	<packagename>vi-VN</packagename> 
-	<version>3.2.2</version> 
+	<version>3.2.3</version> 
 	<creationDate>December 2020</creationDate> 
 	<author>Vietnamese Translation Team</author> 
 	<authorEmail>support@xiroweb.com</authorEmail> 
@@ -18,6 +18,6 @@
 		<file type="language" client="administrator" id="vi-VN">admin_vi-VN.zip</file>
 	</files>
 	<updateservers>
-	    <server type="extension" priority="1" name="Accredited Joomla! Translations">https://raw.githubusercontent.com/xiroweb/updateserver/master/languages/vi-VN/vi-VN.xml</server>
+	    <server type="extension" priority="1" name="Gói ngôn ngữ Tiếng Việt XiroWeb">https://update.xiroweb.com/languages/vi-VN/vi-VN.xml</server>
 	</updateservers>
 </extension>
