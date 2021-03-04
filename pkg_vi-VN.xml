@@ -2,7 +2,7 @@
 <extension type="package" version="3.0" method="upgrade">
 	<name>Vietnamese Language Pack</name>
 	<packagename>vi-VN</packagename> 
-	<version>3.2.4</version> 
+	<version>3.2.5</version> 
 	<creationDate>December 2020</creationDate> 
 	<author>Vietnamese Translation Team</author> 
 	<authorEmail>support@xiroweb.com</authorEmail> 
