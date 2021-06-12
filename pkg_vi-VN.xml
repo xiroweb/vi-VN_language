@@ -2,7 +2,7 @@
 <extension type="package" version="3.0" method="upgrade">
 	<name>Vietnamese Language Pack</name>
 	<packagename>vi-VN</packagename> 
-	<version>3.2.7</version> 
+	<version>3.3.1</version> 
 	<creationDate>December 2020</creationDate> 
 	<author>Vietnamese Translation Team</author> 
 	<authorEmail>support@xiroweb.com</authorEmail> 
@@ -10,9 +10,9 @@
 	<copyright>Copyright (C) 2020 xiroweb.com and Open Source Matters. All rights reserved.</copyright>
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
 	<url></url>
-	<packager>Joomla! Vietnamese</packager>
+	<packager>Vietnamese</packager>
 	<packagerurl>www.xiroweb.com</packagerurl>
-	<description>3.2.7 Joomla Vietnamese Language Package</description>
+	<description>3.3.1 Vietnamese Language Package</description>
 	<files>
 		<file type="language" client="site" id="vi-VN">site_vi-VN.zip</file>
 		<file type="language" client="administrator" id="vi-VN">admin_vi-VN.zip</file>
