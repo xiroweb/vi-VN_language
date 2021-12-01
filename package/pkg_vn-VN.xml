@@ -2,14 +2,14 @@
 <extension type="package" method="upgrade">
 	<name>Vietnamese (vn-VN) Language Pack</name>
 	<packagename>vn-VN</packagename>
-	<version>[RELEASE_VERSION]</version>
+	<version>4.0.4.3</version>
 	<creationDate>September 2021</creationDate>
 	<author>Xiroweb</author>
 	<authorEmail>support@xiroweb.com</authorEmail>
 	<authorUrl>www.xiroweb.com</authorUrl>
 	<copyright>(C) 2021 Xiroweb, Inc.</copyright>
 	<license>https://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
-	<url>https://www.xiroweb.com</url>
+	<url>https://github.com/joomla/joomla-cms</url>
 	<packager>Xiroweb Platform</packager>
 	<packagerurl>www.xiroweb.com</packagerurl>
 	<description><![CDATA[vn-VN language pack]]></description>
@@ -20,6 +20,6 @@
 		<folder type="language" client="api" id="vn-VN">api/language/vn-VN</folder>
 	</files>
 	<updateservers>
-		<server type="extension" priority="1" name="[EXTENSION_NAME]">[EXTENSION_CDN]/pkg_[EXTENSION_ALIAS].xml</server>
+		<server type="extension" priority="1" name="vn-VN">https://www.xiroweb.com/updates/pkg_vn-vn.xml</server>
 	</updateservers>
 </extension>
