@@ -3,11 +3,11 @@
 	<name>Vietnamese (vn-VN)</name>
 	<version>4.0.4.2</version>
 	<creationDate>September 2021</creationDate>
-	<author>Joomla! Project</author>
-	<authorEmail>admin@joomla.org</authorEmail>
-	<authorUrl>www.joomla.org</authorUrl>
-	<copyright>(C) 2006 Open Source Matters, Inc.</copyright>
-	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+<author>Xiroweb</author>
+	<authorEmail>support@xiroweb.com</authorEmail>
+	<authorUrl>www.xiroweb.com</authorUrl>
+	<copyright>(C) 2021 Xiroweb, Inc.</copyright>
+	<license>https://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
 	<description><![CDATA[vn-VN site language]]></description>
 	<metadata>
 		<name>Vietnamese (Vietnamese)</name>
