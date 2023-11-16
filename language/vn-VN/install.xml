@@ -2,7 +2,7 @@
 <extension client="site" type="language" method="upgrade">
 	<name>Vietnamese (vn-VN)</name>
 	<tag>vn-VN</tag>
-	<version>4.0.5.5</version>
+	<version>4.0.7</version>
 	<creationDate>September 2021</creationDate>
 	<author>Xiroweb</author>
 	<authorEmail>support@xiroweb.com</authorEmail>

@@ -2,7 +2,7 @@
 <extension type="package" method="upgrade">
 	<name>Vietnamese (vn-VN) Language Pack</name>
 	<packagename>vn-VN</packagename>
-	<version>4.0.5.5</version>
+	<version>4.0.7</version>
 	<creationDate>September 2021</creationDate>
 	<author>Xiroweb</author>
 	<authorEmail>support@xiroweb.com</authorEmail>
