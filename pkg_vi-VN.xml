@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <extension type="package" method="upgrade">
-	<name>Vietnamese (vn-VN) Language Pack</name>
-	<packagename>vn-VN</packagename>
-	<version>4.0.7</version>
+	<name>Vietnamese (vi-VN) Language Pack</name>
+	<packagename>vi-VN</packagename>
+	<version>9.0.7</version>
 	<creationDate>September 2021</creationDate>
 	<author>Xiroweb</author>
 	<authorEmail>support@xiroweb.com</authorEmail>
@@ -12,14 +12,14 @@
 	<url>https://www.xiroweb.com</url>
 	<packager>Xiroweb Platform</packager>
 	<packagerurl>www.xiroweb.com</packagerurl>
-	<description><![CDATA[vn-VN language pack]]></description>
+	<description><![CDATA[vi-VN language pack]]></description>
 	<blockChildUninstall>true</blockChildUninstall>
 	<files>
-		<folder type="language" client="site" id="vn-VN">language/vn-VN</folder>
-		<folder type="language" client="administrator" id="vn-VN">administrator/language/vn-VN</folder>
-		<folder type="language" client="api" id="vn-VN">api/language/vn-VN</folder>
+		<folder type="language" client="site" id="vi-VN">language/vi-VN</folder>
+		<folder type="language" client="administrator" id="vi-VN">administrator/language/vi-VN</folder>
+		<folder type="language" client="api" id="vi-VN">api/language/vi-VN</folder>
 	</files>
 	<updateservers>
-		<server type="extension" priority="1" name="vn-VN">https://www.xiroweb.com/updates/pkg_vn-vn.xml</server>
+		<server type="extension" priority="1" name="vi-VN Cập nhật ngôn ngữ Việt Nam">https://www.xiroweb.com/updates/pkg_vi-vn.xml</server>
 	</updateservers>
 </extension>

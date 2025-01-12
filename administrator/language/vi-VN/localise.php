@@ -11,11 +11,11 @@ use Joomla\String\StringHelper;
 defined('_JEXEC') or die;
 
 /**
- * vn-VN localise class.
+ * vi-VN localise class.
  *
  * @since  1.6
  */
-abstract class Vn_VNLocalise
+abstract class Vi_VNLocalise
 {
 	/**
 	 * Returns the potential suffixes for a specific number of items
