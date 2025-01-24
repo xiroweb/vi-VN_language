@@ -56,3 +56,5 @@ tslint.json
 
 # Symlinks
 **/.DS_Store
+.zip
+**/.zip
